@@ -1,0 +1,20 @@
+{
+  "name": "hello-world0-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkhmadFarid/hello-world0-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkhmadFarid/hello-world0-generator/issues"
+  },
+  "homepage": "https://github.com/AkhmadFarid/hello-world0-generator#readme"
+}
